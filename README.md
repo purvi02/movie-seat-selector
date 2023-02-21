@@ -1,1 +1,1 @@
-# note-taking-app
+# movie seat selector website with localstorage
